@@ -1,27 +1,94 @@
-<h1 align="center">Hi 👋, I'm Youssef Gharbaoui</h1>
-<h3 align="center">A passionate AI, ML and data science student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefgharbaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssefgharbaoui" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Gharbaoui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **Deep learning, MongoDB, C++**
-- 💬 Ask me about **Machine learning, Python, Data structures**
-- 📫 How to reach me: **youssef.gharbaoui.tech@gmail.com**
-- ⚡ Fun fact: **I think I can grow more everyday**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Passionate+AI+%26+ML+Student+%F0%9F%A4%96;Deep+Learning+Explorer+%F0%9F%A7%A0;Data+Science+Enthusiast+%F0%9F%93%8A;Always+Learning%2C+Always+Growing+%E2%9A%A1)](https://git.io/typing-svg)
 
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/youssef-gharbaoui-27a05b407/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef gharbaoui" height="30" width="40" /></a> <a href="https://instagram.com/4lien_pie/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4lien_pie" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=youssefgharbaoui&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="youssefgharbaoui" />
 
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
-</p>
+</div>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefgharbaoui&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=youssefgharbaoui&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+## 🧠 About Me
+
+```python
+class YoussefGharbaoui:
+    def __init__(self):
+        self.name       = "Youssef Gharbaoui"
+        self.role       = "AI, ML & Data Science Student"
+        self.learning   = ["Deep Learning", "MongoDB", "C++"]
+        self.expertise  = ["Machine Learning", "Python", "Data Structures"]
+        self.email      = "youssef.gharbaoui.tech@gmail.com"
+        self.fun_fact   = "I believe I can grow a little more every single day ⚡"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something great together.")
+```
+
+---
+
+## 🚀 Currently
+
+- 🌱 **Learning:** Deep Learning, MongoDB, C++
+- 💬 **Ask me about:** Machine Learning, Python, Data Structures
+- 📫 **Reach me at:** [youssef.gharbaoui.tech@gmail.com](mailto:youssef.gharbaoui.tech@gmail.com)
+- ⚡ **Fun fact:** I think I can grow more every day
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefgharbaoui&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgharbaoui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgharbaoui&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=youssefgharbaoui&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-gharbaoui-27a05b407)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4lien_pie)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.gharbaoui.tech@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
